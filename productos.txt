@@ -1,0 +1,5 @@
+1|pantalon mezclilla|200|ropan
+2|camisa blanca|150|ropan
+3|reloj|300|acesorios
+4|chaqueta|250|ropa
+5|collar|150|acesorios
